@@ -19,5 +19,5 @@ def find_the_cheese(array)
 			str = cheese_types[index]
 		end
 	end
-	str
+	return str
 end
